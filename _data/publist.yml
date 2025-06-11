@@ -1,0 +1,235 @@
+papers:
+
+  - title: "Prehistoric genomes from Yunnan reveal ancestry related to Tibetans and Austroasiatic speakers"
+    authors: Tianyi Wang, Melinda A. Yang, Zhonghua Zhu, Minmin Ma, Han Shi, <u>Leo Speidel</u>, ..., Qiaomei Fu
+    link:
+      url: https://www.science.org/doi/abs/10.1126/science.adq9792
+      display: Science 388, eadq9792 (2025)
+    id: Yunnan
+
+  - title: "Ancient Borrelia genomes document the evolutionary history of louse-borne relapsing fever"
+    authors: Pooja Swali, Thomas Booth, ..., <u>Leo Speidel</u>, ..., Lucy van Dorp, Pontus Skoglund
+    link:
+      url: https://www.science.org/doi/abs/10.1126/science.adr2147
+      display: Science 388, eadr2147 (2025)
+    id: Borrelia
+
+  - title: "High-resolution genomic history of early medieval Europe."
+    authors: <u>Leo Speidel</u>, Marina Silva, Thomas Booth, Ben Raffield, Kyriaki Anastasiadou, Christopher Barrington, Anders Götherström, Peter Heather, Pontus Skoglund.
+    link:
+      url: https://www.nature.com/articles/s41586-024-08275-2
+      display: Nature 637, 118–126 (2025)
+    preprint:
+      url: https://www.biorxiv.org/content/10.1101/2024.03.15.585102
+      display: bioRxiv:2024.03.15.585102
+    code: https://leospeidel.github.io/twigstats
+    news:
+      - link: https://www.nature.com/nature/volumes/637/issues/8044
+        display: Nature Cover
+      - link: https://www.bbc.com/news/articles/clyx9nv4mleo
+        display: BBC
+      - link: https://www.theguardian.com/science/2025/jan/01/scandinavians-came-to-britain-long-before-vikings-and-anglo-saxons-finds-study
+        display: The Guardian
+    id: Twigstats
+
+  - title: "A disease-associated gene desert directs macrophage inflammation through ETS2."
+    authors: Christina T. Stankey, Christophe Bourges, ..., <u>Leo Speidel</u>, ..., James C. Lee.
+    link:
+      url: https://www.nature.com/articles/s41586-024-07501-1
+      display: Nature 630, 447–456 (2024)
+    id: ETS2
+
+  - title: "Detection of chromosomal aneuploidy in ancient genomes."
+    authors: Kyriaki Anastasiadou, Marina Silva, Thomas Booth, <u>Leo Speidel</u>, ..., Pontus Skoglund.
+    link:
+      url: https://www.nature.com/articles/s42003-023-05642-z
+      display: Communications Biology 7, 14 (2024)
+    preprint:
+      url: https://doi.org/10.1101/2022.09.22.509027 
+      display: bioRxiv:2022.09.22.509027
+      id: AncientAneuploidy
+
+  - title: "The Selection Landscape and Genetic Legacy of Ancient Eurasians."
+    authors: Evan K Irving-Pease, Alba Refoyo-Martínez, Andrés Ingason, Alice Pearson, Anders Fischer, William Barrie, ..., <u>Leo Speidel</u>, ..., Peter H Sudmant, Daniel J Lawson, Richard Durbin, Thorfinn Korneliussen, Thomas Werge, Morten E Allentoft, Martin Sikora, Rasmus Nielsen, Fernando Racimo, Eske Willerslev.
+    link:
+      url: https://www.nature.com/articles/s41586-023-06705-1
+      display: Nature 625, 312-320 (2024)
+    preprint:
+      url: https://doi.org/10.1101/2022.09.22.509027 
+      display: bioRxiv:2022.09.22.509027
+    id: AncientSelection
+
+  - title: "Integrative analysis of GWAS and co-localisation data suggests novel genes associated with age-related multimorbidity."
+    authors: Clare E West, Mohd Karim, Maria J Falaguera, <u>Leo Speidel</u>, ..., Brian Marsden.
+    link:
+      url: https://www.nature.com/articles/s41597-023-02513-4
+      display: Scientific Data 10, 655 (2023)
+    preprint:
+      url: https://doi.org/10.1101/2022.11.11.22282236  
+      display: medRxiv:2022.11.11.22282236 
+    id: Aging
+
+  - title: "Balancing selection on genomic deletion polymorphisms in humans."
+    description: This paper looks into old but polymorphic deletions in the human genome, such as those that are shared with Neanderthals, and quantifies the evidence for balancing selection acting on these.
+    authors: Alber Aqil, <u>Leo Speidel</u>, Pavlos Pavlidis, Omer Gokcumen.
+    link:
+      url: https://www.nature.com/articles/s41586-022-04824-9
+      display: ELife 12, e79111 (2023)
+    id: AncDeletion
+
+  - title: "Grey wolf genomic history reveals a dual ancestry of dogs."
+    description: This paper analyses 72 ancient wolf genomes from the past 100,000 years and among others finds that most modern-day dogs derive their ancestry from two distinct wolf sources. It also quantifies selection directly using an ancient DNA time series. We confirmed that the strongest selection hit also has the youngest time to the most recent common ancestor in the whole genome, i.e. all wolves coalesce very quickly - we can infer this using only modern-day wolves complementing the time series approach.
+    authors: Anders Bergström, ..., <u>Leo Speidel</u>, ..., Pontus Skoglund.
+    link:
+      url: https://www.nature.com/articles/s41586-022-04824-9
+      display: Nature volume 607, 313–320 (2022)
+    id: Wolf
+
+  - title: "Multi-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation."
+    description: This paper did a GWAS meta analysis on ~1.2m subjects from diverse ancestries, identifying 338 distinct association signals for T2D. We looked at polygenic selection using Relate trees, and found some evidence of selection for increased T2D risk in 1000G African ancestry groups, which appears to be driven by a subset of SNPs that are also associated with weight/fat distribution in UKB.
+    authors: Anubha Mahajan, Cassandra N Spracklen*, Weihua Zhang*, Maggie CY Ng*, Lauren E Petty*, Hidetoshi Kitajima*, Grace Z Yu*, Sina Rueger*, <u>Leo Speidel</u>*, ..., Mark I McCarthy, Andrew P Morris. (*joint second authors)
+    link:
+      url: https://www.nature.com/articles/s41588-022-01058-3
+      display: Nature Genetics 54, 560–572 (2022)
+    preprint:
+      url: https://www.medrxiv.org/content/10.1101/2020.09.22.20198937v1.full.pdf
+      display: medRxiv:2020.09.22.20198937
+    id: DiamanteT2D
+
+  - title: "Sex-specific phenotypic effects and evolutionary history of an ancient polymorphic deletion of the human growth hormone receptor."
+    description: This paper looks into the function and evolutionary history of the deletion of exon 3 in the growth hormone receptor. This deletion appears to be associated with protection from malnutrition and exhibits quite remarkable interactions with diet and sex in mice. This deletion is fixed in all archaics we looked at (incl. of lower coverage). Despite its apparent old age, it is segregating everywhere today and is found at especially low frequency in East Asia.
+    authors: Marie Saitou, ..., <u>Leo Speidel</u>, ..., Omer Gokcumen.
+    link:
+      url: https://www.science.org/doi/10.1126/sciadv.abi4476
+      display: Science Advances 7, eabi4476 (2021)
+
+  - title: "Inferring population histories for ancient genomes using genome-wide genealogies."
+    description: This paper extends Relate to work with ancient DNA and introduces Colate, a method for inferring coalescence rates between low-coverage (ancient) genomes. We also study geographic and temporal patterns of the TCC/TTC mutation rate change in moderns and 161 ancients, finding that it was already widespread >10k years ago and correlates with recent ancestry from a 10k year old Anatolian.
+    authors: <u>Leo Speidel</u>, Lara Cassidy, Robert W. Davies, Garrett Hellenthal, Pontus Skoglund, Simon R. Myers.
+    link:
+      url: https://academic.oup.com/mbe/article/38/9/3497/6299394
+      display: Molecular Biology and Evolution 38, 3497–3511 (2021)
+    preprint:
+      url: https://www.biorxiv.org/content/10.1101/2021.02.17.431573v1
+      display: bioRxiv:2021.02.17.431573v1
+    code: https://github.com/leospeidel/Colate
+    id: Colate
+
+  - title: "Disentangling selection on genetically correlated polygenic traits using whole-genome genealogies."
+    description: This paper introduces a full-likelihood method to quantify polygenic adaptation. The method uses Relate-sampled genealocical trees and an importance sampler similar to the CLUES method, and can be used to disentangle varying amount of selection acting on correlated traits.
+    authors: Aaron J. Stern, <u>Leo Speidel</u>, Noah A. Zaitlen, Rasmus Nielsen.
+    link:
+      url: https://www.cell.com/ajhg/fulltext/S0002-9297(20)30441-9
+      display: American Journal of Human Genetics 108, 219-239 (2021)
+    preprint:
+      url: https://www.biorxiv.org/content/10.1101/2020.05.07.083402v1
+      display: bioRxiv:2020.05.07.083402
+    code: https://github.com/35ajstern/palm
+    id: PALM
+
+  - title: "A method for genome-wide genealogy estimation for thousands of samples."
+    description: This paper describes the Relate method for estimating genealogies for thousands of samples and its application to 2478 modern humans.
+    authors: <u>Leo Speidel</u>, Marie Forest, Sinan Shi, Simon R. Myers.
+    link:
+      url: https://www.nature.com/articles/s41588-019-0484-x
+      display: Nature Genetics 51, 1321-1329 (2019)
+    preprint:
+      url: https://www.biorxiv.org/content/10.1101/550558v1
+      display: bioRxiv:550558
+    news:
+      - link: https://www.nature.com/articles/s41588-019-0492-x 
+        display: Nature Genetics News and Views
+      - link: https://www.nature.com/articles/s41592-019-0639-9 
+        display: Nature Methods Research Highlight
+      - link: https://www.nature.com/articles/d41586-019-02649-7
+        display: Nature Briefing
+    code: https://myersgroup.github.io/relate/
+    data: https://zenodo.org/record/3234689
+    id: Relate
+
+  - title: "Topological data analysis of continuum percolation with disks."
+    description: We studied percolation of disks which are dropped at random onto a plane leading to clusters of overlapping disks, the size of which can undergo sudden phase transitions. Here, we characterize topological properties of such clusters. 
+    authors: <u>Leo Speidel</u>, Heather A. Harrington, S. Jonathan Chapman, Mason A. Porter.
+    link:
+      url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012318
+      display: Physical Review E 98, 012318 (2018)
+    preprint:
+      url: https://arxiv.org/abs/1804.07733
+      display: arXiv:1804.07733
+    code: https://github.com/leospeidel/TDA_of_continuum_percolation_with_disks
+    id: Percolation
+
+  - title: "Asynchronous rumor spreading on random graphs."
+    description: For a simple protocol for disseminating information in a network, we derive tight bounds on the time until all nodes are informed, which we show to be robust to the density of connections in the network.
+    authors: Konstantinos Panagiotou, <u>Leo Speidel</u> (alphabetical order).
+    link:
+      url: https://link.springer.com/article/10.1007/s00453-016-0188-x
+      display: Algorithmica 78, 968-989 (2017)
+    preprint:
+      url: https://arxiv.org/abs/1608.01766
+      display: arXiv:1608.01766
+    id: rumour
+
+  - title: "Temporal interactions facilitate endemicity in the susceptible-infected-susceptible epidemic model."
+    description: The structure of networks describing human interactions directly impact how easily epidemics can spread. Many networks additionally change through time and we show that rapidly changing networks are always more susceptible to an epidemic compared to the corresponding static ones.
+    authors: <u>Leo Speidel</u>, Konstantin Klemm, Victor M. Eguiluz, Naoki Masuda.
+    link:
+      url: https://iopscience.iop.org/article/10.1088/1367-2630/18/7/073013
+      display: New Journal of Physics 18, 073013 (2016) [open access]
+    preprint:
+      url: https://arxiv.org/abs/1602.00859
+      display: arXiv:1602.00859
+    id: SIS
+
+  - title: "Community detection in directed acyclic graphs."
+    description: Empirical networks commonly exhibit communities, which are densely connected submodules. Detecting such communities can substantially enhance the understanding of a network. We extend an existing approach to a subclass of networks that have directed links and no cycles, including e.g., citation networks and genealogies.
+    authors: <u>Leo Speidel</u>*, Taro Takaguchi*, Naoki Masuda (*contributed equally).
+    link:
+      url: https://link.springer.com/article/10.1140%2Fepjb%2Fe2015-60226-y
+      display: European Physical Journal B 88, 203 (2015) [open access]
+    preprint:
+      url: https://arxiv.org/abs/1503.05641
+      display: arXiv:1503.05641
+    code: https://github.com/leospeidel/dag_community_paper
+    news:
+      - link: https://advanceseng.com/applied-physics/community-detection-in-directed-acyclic-graphs/
+        display: Advances in Engineering
+    id: DAG
+
+  - title: "Steady state and mean recurrence time for random walks on stochastic temporal networks."
+    description: We characterise a random walk on a temporally changing network. This random walk is a simplified model for e.g., an epidemic spreading through physical contacts among agents.
+    authors: <u>Leo Speidel</u>, Renaud Lambiotte, Kazuyuki Aihara, Naoki Masuda.
+    link:
+      url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.012806
+      display: Physical Review E 91, 012806 (2015) [open access]
+    preprint:
+      url: https://arxiv.org/abs/1407.4582
+      display: arXiv:1407.4582
+    id: random_walk
+
+books:
+  - title: "Reconstructing the genealogical relationships of hunter-gatherers and farmerss."
+    authors: <u>Leo Speidel</u>.
+    link:
+      url: https://www.google.co.uk/books/edition/Ancient_DNA_and_the_European_Neolithic/01CjEAAAQBAJ?hl=en&gbpv=1&dq=Reconstructing%20the%20genealogical%20relationships%20of%20hunter-gatherers%20and%20farmers%20google%20books&pg=PA51&printsec=frontcover
+      display: In Ancient DNA and the European Neolithic Relations and Descent (Oxbow Books, UK, 2023), pp. 51-62.
+  - title: "Genealogy estimation for thousands of samples."
+    authors: <u>Leo Speidel</u>.
+    link:
+      url: https://ora.ox.ac.uk/objects/uuid:61e3f8d0-6911-461d-92ea-ee91559cf353
+      display: DPhil thesis, University of Oxford, 2019.
+  - title: "Epidemic threshold in temporally-switching networks."
+    authors: <u>Leo Speidel</u>, Konstantin Klemm, Victor M. Eguiluz, Naoki Masuda.
+    link:
+      url: https://link.springer.com/chapter/10.1007/978-981-10-5287-3_7
+      display: Temporal Network Epidemiology (Springer, Singapore, 2017), pp. 161-177.
+
+others:
+  - title: "What Our DNA Can Tell Us About the History of Humans."
+    description: We wrote this article for young scientists (aged 8-15); it describes how we can use maths, stats, and computers to find out about our genetic history.
+    authors: <u>Leo Speidel</u>, Clare Bycroft.
+    link:
+      url: https://kids.frontiersin.org/article/10.3389/frym.2020.00106
+      display: Front. Young Minds. 8:106 (2020) [open access]
+    id: FrontierYoungMinds
+

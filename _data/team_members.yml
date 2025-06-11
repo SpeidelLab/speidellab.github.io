@@ -1,0 +1,40 @@
+- name: Leo Speidel / シュパイデル玲雄
+  tag: leo
+  role: Group Leader
+  details: English, Japanese, German
+  photo: leo_riken.JPG
+  google:
+    url: https://scholar.google.co.jp/citations?user=ohTuYdgAAAAJ&hl
+  orcid:
+    url: https://orcid.org/0000-0002-4644-8033
+  email: leo.speidel@outlook.com
+  number_educ: 6
+  education1: Group Leader, iTHEMS, RIKEN (2024 - present).
+  education2: Sir Henry Wellcome fellow at UCL, Genetics Institute and the Francis Crick Institute (2020 - 2024).
+  education3: Postdoc in Simon Myers' group, Department of Statistics, University of Oxford (2019 - 2020) 
+  education4: DPhil (PhD) in Simon Myers' group, Department of Statistics, University of Oxford (2015 - 2019)
+  education5: Master in Mathematical Informatics, The University of Tokyo (2013 - 2015)
+  education6: BSc in Mathematics, Ludwig-Maximilians-University Munich (2010 - 2013)
+
+- name: Lucas Sort
+  tag: lucas
+  role: Postdoctoral Researcher
+  details: English, French
+  photo: lucas.JPG
+  number_educ: 2
+  education1: Postdocoral Researcher, iTHEMS, RIKEN (2025 - present)
+  education2: PhD in Statistics and Machine Learning from Université Paris-Saclay (2025)
+
+- name: Aina Colomer i Vilaplana
+  tag: aina
+  role: Postdoctoral Researcher
+  details: English, Catalan, Spanish
+  photo: aina.png
+  number_educ: 5
+  education1: Postdocoral Researcher, iTHEMS, RIKEN (2025 - present)
+  education2: PhD in Bioinformatics, Universitat Autònoma de Barcelona (2025)
+  education3: Master in Bioinformatics, Universitat Autònoma de Barcelona (2020)
+  education4: Master in Genetics and Genomics, Universitat de Barcelona (2018)
+  education5: BSc in Biology, Universitat de Barcelona (2017)
+
+

@@ -1,0 +1,32 @@
+- title: "Genealogy inference using Relate"
+  image: genealogies.png
+  description: "Genealogies describe the genetic relationships of individuals back in time, typically up to millions of years for humans. Relate estimates genealogies genome-wide from genetic variation data collected at the tips of these genealogies; the reconstructed trees adapt to changes in local ancestry caused by recombination. The method is scalable to thousands of samples and can be used to study population size histories, split times of populations, introgression, dating mutations, and positive selection."
+  link:
+    url: https://myersgroup.github.io/relate/
+    display: Relate documentation
+  japanese:
+    url: /images/respic/91bp-6.pdf
+    display: Japanese version
+  highlight: 1
+ 
+- title: "Powerful computation of f-statistics using genealogies"
+  image: Twigstats.png
+  description: "Twigstats computes f-statistics on genealogies for robust, powerful, and time-stratified quantification of admixture events. For instance, using Twigstats we can compute f-statistics on only recent coalescence events that are most informative of mixtures between closely related groups."
+  link:
+    url: https://leospeidel.github.io/twigstats/
+    display: Twigstats documentation
+  highlight: 1
+
+- title: "Inferring coalescence rates for low-coverage genomes using Colate"
+  image: Colate.png
+  description: "Colate leverages mutations dated using a Relate genealogy to infer coalescence rates for lower coverage genomes, specified in BCF or BAM format. These can be used infer population histories, incl recent shared ancestry, migrations/population replacements, or date population splits."
+  link:
+    url: https://github.com/leospeidel/Colate
+    display: Colate documentation
+  highlight: 1
+
+- title: "Complex networks"
+  image: network.png
+  description: "I am interested in summarising network structure in meaningful ways (e.g., by finding densely connected parts of a network), as well as understanding how the structure of a network impacts processes happening on top of them. The structure of a network representing human-human interactions is, for instance, known to influence how quickly an epidemic can spread.<br/> 
+  We looked into how temporally evolving connectivity relationships impact such processes: diverse types of networks have non-trivial temporal patterns, which can lead to dramatic differences in e.g., epidemics spreading on such networks."
+  highlight: 1

@@ -1,0 +1,27 @@
+- title: "Genealogy inference using Relate"
+  image: Relate.png
+  paperurl: https://www.nature.com/articles/s41588-019-0484-x
+  link:
+    url: https://myersgroup.github.io/relate/
+    display: Relate documentation
+  resource: 
+    url: 10.5281/zenodo.15179497
+    display: Ancestral genome, recombination maps, genomic masks
+
+- title: "Admixture modelling using Twigstats"
+  image: Twigstats.jpg
+  paperurl: https://www.nature.com/articles/s41586-024-08275-2
+  link:
+    url: https://leospeidel.github.io/twigstats/
+    display: Twigstats documentation
+  resource: 
+    url: 10.5281/zenodo.13880458
+    display: Twigstats scripts and example files
+
+- title: "Coalescence rates using Colate"
+  image: Colate.png
+  paperurl: https://academic.oup.com/mbe/article/38/9/3497/6299394
+  link:
+    url: https://github.com/leospeidel/colate
+    display: Colate documentation
+
