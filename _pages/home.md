@@ -18,12 +18,12 @@ carousels:
 <div class="col-xs-12" style="height:15px;"></div>
 
 <div class="col-12 clearfix">
-Welcome to the Mathematical Genomics group at <a href="https://www.riken.jp/en/" target="_blank" rel="noopener noreferrer">RIKEN</a>, Japan's national scientific research institute.<br/> 
-We are part of the <a href="https://ithems.riken.jp/en" target="_blank" rel="noopener noreferrer">Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS)</a>. 
+Welcome to the Mathematical Genomics Research Unit at <a href="https://www.riken.jp/en/" target="_blank" rel="noopener noreferrer">RIKEN</a>, Japan's national scientific research institute.<br/> 
+We are part of the <a href="https://ithems.riken.jp/en" target="_blank" rel="noopener noreferrer">Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS)</a> and RIKEN <a href="https://www.riken.jp/en/careers/programs/riken_ecl/" target="_blank" rel="noopener noreferrer">Early Careers Leader Program</a>. 
 
 Please get in touch if you're interested in joining us in Tokyo. See here for <a href="https://www.riken.jp/en/careers/programs/index.html" target="_blank" rel="noopener noreferrer">RIKEN-funded fellowships</a> and <a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">JSPS-funded fellowships</a> at PhD and postdoc level, in addition to positions funded directly by us.<br/>
 
-当研究室の研究にご興味のある方は、どうぞお気軽にご連絡ください。
+数理遺伝学理研ECL研究ユニットの研究にご興味のある方は、どうぞお気軽にご連絡ください。
 
 博士課程やポスドクへの応募を希望される方は、英語の履歴書をメールでお送りください。
 当研究室の募集に加え、理化学研究所の<a href="https://www.riken.jp/careers/programs/spdr/index.html" target="_blank" rel="noopener noreferrer">「基礎科学特別研究員制度」</a>、<a href = "https://www.riken.jp/careers/programs/jra/jra2025/index.html" target="_blank" rel="noopener noreferrer">「JRA制度」</a>や、<a href="https://www.jsps.go.jp/j-pd/pd_sin.html" target="_blank" rel="noopener noreferrer">日本学術振興会（JSPS）</a>のフェローシップ制度もご確認ください。
