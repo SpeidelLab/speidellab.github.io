@@ -5,7 +5,7 @@
     url: https://myersgroup.github.io/relate/
     display: Relate documentation
   resource: 
-    url: 10.5281/zenodo.15179497
+    url: https://doi.org/10.5281/zenodo.15179497
     display: Ancestral genome, recombination maps, genomic masks
 
 - title: "Admixture modelling using Twigstats"
@@ -15,7 +15,7 @@
     url: https://leospeidel.github.io/twigstats/
     display: Twigstats documentation
   resource: 
-    url: 10.5281/zenodo.13880458
+    url: https://doi.org/10.5281/zenodo.13880458
     display: Twigstats scripts and example files
 
 - title: "Coalescence rates using Colate"
