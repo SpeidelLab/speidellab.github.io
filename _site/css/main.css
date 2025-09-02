@@ -7676,4 +7676,19 @@ body {
   opacity: 1; /* show on hover */
 }
 
+/* Default: show full version, hide short */
+.brand-short {
+  display: none;
+}
+
+/* On small screens (e.g. <768px, Bootstrap's mobile breakpoint) */
+@media (max-width: 767px) {
+  .brand-full {
+    display: none;
+  }
+  .brand-short {
+    display: inline;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
