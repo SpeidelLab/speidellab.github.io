@@ -7690,5 +7690,19 @@ body {
     display: inline;
   }
 }
+.member-row {
+  display: flex;
+  align-items: flex-start; /* aligns name with top of image */
+  gap: 15px;
+}
+
+.member-row img {
+  width: 130px; /* or keep your % */
+  height: auto;
+}
+
+.member-content {
+  flex: 1;
+}
 
 /*# sourceMappingURL=main.css.map */
