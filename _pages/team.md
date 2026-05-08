@@ -94,7 +94,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-
 <h1> Group alumni </h1>
 
 {% assign number_printed = 0 %}
@@ -105,3 +104,12 @@ permalink: /team/
 
 {% endfor %}
 
+<h1 id="retreat"> Retreat 2026 </h1>
+
+<div style="text-align: center; margin: 0px 0;">
+<img
+src="{{ site.url }}{{ site.baseurl }}/images/homepic/Retreat2026.jpeg"
+alt="Description"
+style="width: 100%; max-width: 500px; height: auto; display: inline-block; border-radius: 0;"
+/>
+</div>

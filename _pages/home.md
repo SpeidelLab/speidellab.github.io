@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 carousels:
     - images: 
+      - image: /images/homepic/lab2026.png
       - image: /images/homepic/IMG_8179.jpeg
       - image: /images/homepic/smbe2025.jpeg
-      - image: /images/homepic/DSC09860.JPG
       - image: /images/homepic/IMG_0971.jpeg
 ---
 

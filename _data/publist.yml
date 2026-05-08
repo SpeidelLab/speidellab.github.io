@@ -1,5 +1,33 @@
 papers:
 
+  - title: "Genomic history and selection in Roman and early medieval Britain"
+    authors: 1.	Marina Silva, Thomas Booth, Kyriaki Anastasiadou, ..., <u>Leo Speidel</u>, Pontus Skoglund. 
+    link:
+      url: https://www.biorxiv.org/content/10.64898/2026.04.28.721361v1  
+      display: bioRxiv:10.64898/2026.04.28.721361v1  
+    id: 1000ancientBritain
+
+  - title: "Genome-wide genealogies reveal deep admixtures forming modern humans"
+    authors: 2.	Hrushikesh Loya*, Anjali Gupta Hinch, Pier Francesco Palamara, <u>Leo Speidel*</u>, Simon R. Myers*. (*corresponding)
+    link:
+      url: https://www.biorxiv.org/content/10.64898/2026.04.17.719197v1 
+      display: bioRxiv:10.64898/2026.04.17.719197v1 
+    id: GhostBuster
+
+  - title: "Ancient Ryukyu Jomon contributed to past and current genetic structure of Japanese populations"
+    authors: Masatoshi Matsunami, Yosuke Kawai, <u>Leo Speidel</u>,..., Ryosuke Kimura.
+    link:
+      url: https://www.biorxiv.org/content/10.64898/2026.04.03.712818v1 
+      display: bioRxiv:10.64898/2026.04.03.712818v1 
+    id: ryukyu
+
+  - title: "Inference of complex demographic history using composite likelihood based on whole-genome genealogies"
+    authors: Drew DeHaas, Zhibai Jia, <u>Leo Speidel</u>, Xinzhu Wei.
+    link:
+      url: https://www.biorxiv.org/content/10.1101/2025.10.07.680347v1
+      display: bioRxiv:10.1101/2025.10.07.680347v1
+    id: mrpast
+
   - title: "Cosmopolitanism in the depths of Barbaricum evidenced by archaeogenomic data from the Late Iron Age Goth community of the Masłomęcz group"
     authors: Michał Golubiński, Mateusz Baca, Danijela Popović, <u>Leo Speidel</u>, Stephan Schiffels, Barbara Niezabitowska-Wiśniewska, Andrzej Kokowski & Martyna Molak
     link:

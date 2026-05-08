@@ -1,6 +1,15 @@
 - date: April 2026
+  headline: "We went on a two-day retreat to Kyoto!"
+  link: /team#retreat
+- date: April 2026
+  headline: "We preprinted a paper analysing 1000 high-quality ancient shotgun genomes from Roman and early medieval Britain."
+  link: https://www.biorxiv.org/content/10.64898/2026.04.28.721361v1 
+- date: April 2026
+  headline: "We preprinted GhostBuster, our new method to detect ghost ancestry in genealogies, reavealing deep admixtures forming modern humans!"
+  link: https://www.biorxiv.org/content/10.64898/2026.04.17.719197v1
+- date: April 2026
   headline: "Satsuki Hirasawa and Alba Nieto Heredia started in our lab. Welcome Satsuki and Alba!"
-  link: https://speidellab.github.io/team/
+  link: /team/
 - date: March 2026
   headline: "Lucas presented a poster at ProbGen 2026 held at UC Berkeley."
   link: https://probgen2026.github.io/
