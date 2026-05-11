@@ -104,7 +104,24 @@ permalink: /team/
 
 {% endfor %}
 
-<h1 id="retreat"> Retreat 2026 </h1>
+<section id="retreat-2026" style="text-align: left; margin: 3rem 0;">
+<h1 style="margin-bottom: 0.5rem;">Retreat 2026</h1>
+
+<p style="margin-bottom: 1.5rem;">
+<a
+href="https://ithems.riken.jp/en/news/mathematical-genomics-ecl-research-unit-retreat-2728-april-2026"
+style="margin: 0 0.75rem;"
+>
+🇬🇧 English
+</a>
+|
+<a
+href="https://ithems.riken.jp/ja/news/mathematical-genomics-ecl-research-unit-retreat-2728-april-2026"
+style="margin: 0 0.75rem;"
+>
+🇯🇵 日本語
+</a>
+</p>
 
 <div style="text-align: center; margin: 0px 0;">
 <img
@@ -113,3 +130,4 @@ alt="Description"
 style="width: 100%; max-width: 500px; height: auto; display: inline-block; border-radius: 0;"
 />
 </div>
+</section>
